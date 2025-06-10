@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/KDawTech/and101-project1-starter/blob/main/app/src/Andriod%20Project1%20demo.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **Loom**
 
